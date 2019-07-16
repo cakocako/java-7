@@ -6,7 +6,7 @@ public class Car extends Vehicle {
   
     @Override
     public String doStuff() {
-        return "vroum vroum !";
+        return "vroum vroum!";
     }
 
 }
