@@ -6,6 +6,6 @@ public class Boat extends Vehicle {
   
     @Override
     public String doStuff() {
-        return "glou glou !";
+        return "glou glou!";
     }
 }
